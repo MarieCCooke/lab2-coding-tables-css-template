@@ -12,6 +12,12 @@ In this lab, you will:
 1. **Download or create the starter files**:
    - `index.html`
    - `style.css`
+```
+lab2-coding-tables-css-template/
+├── index.html
+├── style.css
+└── README.md
+```
 
 2. **Follow the prompts in `index.html`** to:
    - Build a table showing information (e.g., schedule, etc.)
